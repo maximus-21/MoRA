@@ -23,7 +23,7 @@ You can access the datasets in `MoRA/Dataset`
 
 ## Agent
 
-MoRA implementation can be found in `MoRA/agent`
+MoRA implementation can be found in `MoRA/Agent`
 
 **Python Files:**
 
