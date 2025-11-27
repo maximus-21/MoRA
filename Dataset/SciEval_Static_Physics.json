@@ -1,0 +1,2298 @@
+[
+    {
+        "question": "How do buoyant forces occur?\n\nA. Buoyant forces occur when an object is exposed to air, causing air pressure to create a lifting force.\nB. Buoyant forces occur when an object is partially or completely submerged in a liquid, equal to the weight of liquid displaced.\nC. Buoyant forces occur when an object is heated, causing it to expand and displace liquid.\nD. Buoyant forces occur when an object is compressed, reducing its volume and displacing liquid.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5cdafc3f80a4ef06764f3c1bb0b1517c"
+       },
+       {
+        "question": "How does changing the speed of a fluid affect its pressure?\n\nA. Fluid pressure is constant regardless of velocity.\nB. Direct proportionality between fluid pressure and velocity.\nC. No relationship between fluid pressure and velocity.\nD. Inverse proportionality between fluid pressure and velocity.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e3b3a121c864dcd03522f1b8cb31067d"
+       },
+       {
+        "question": "An object with a mass of $2  kg$ is acted on by two forces.  The first is $F_1= <  -9   N , 8 N>$ and the second is $F_2 = <  -7   N, -4  N>$.  What is the object's rate and direction of acceleration?\n\nA. 10.3 m/s\u00b2, 124\u00b0 clockwise from x-axis\nB. 7.8 m/s\u00b2, 95\u00b0 clockwise from x-axis\nC. 8.25 m/s\u00b2, 104\u00b0 clockwise from x-axis\nD. 6.5 m/s\u00b2, 86\u00b0 clockwise from x-axis\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c982f177abcff7e0472b9d60a6aa7c07"
+       },
+       {
+        "question": "What is $||  <-1,  -2,  7  >  -  <3,  2 , -3   >  ||$?\n\nA. 10.67\nB. 11.49\nC. 9.85\nD. 13.21\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5fa2e09d2a70b832828f6d26dacd2cc4"
+       },
+       {
+        "question": "A ball with a mass of $420 g$ is projected vertically by a spring loaded contraption.  The spring in the contraption has a spring constant of $18  (kg)/s^2$ and was compressed by $6/5 m$ when the ball was released.  How high will the ball go?\n\nA. 2.62 m\nB. 1.85 m\nC. 2.15 m\nD. 3.29 m\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "da9c3e90ee24a8315b9816ad28dfea61"
+       },
+       {
+        "question": "What are resistor combinations?\n\nA. Total resistance of 48.75 Ohms\nB. Total resistance of 68.75 Ohms\nC. Total resistance of 78.75 Ohms\nD. Total resistance of 58.75 Ohms\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "924047bea0b5137a0d2d3dbc02a17b23"
+       },
+       {
+        "question": "How do electric charges create magnetic fields?\n\nA. Magnetic fields only affect neutral charges.\nB. Moving electric charges produce magnetic fields.\nC. Magnetic fields create electric charges.\nD. Electric charges absorb magnetic fields.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "957a47f6899063c40870e9cdcb904972"
+       },
+       {
+        "question": "The water pressure at the bottom of the Marianas Trench is approximately $1,100$ $kPa$. With how much force would the water pressure at the bottom of the Marianas Trench push on a fish with a surface area of $.50$ $m^2$?\n\nA. 550 kN\nB. 650 kN\nC. 450 kN\nD. 750 kN\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "03fdb6fe34a31d7e4ef6aaaff0983d78"
+       },
+       {
+        "question": "What is the sound level in dB for a sound whose intensity is 5.0 x 10-6 watts/m2?\n\nA. 64.88 dB\nB. 70.53 dB\nC. 62.47 dB\nD. 66.99 dB\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "535f26cb7014c8d394e0a1430d4a4920"
+       },
+       {
+        "question": "How can I calculate the change of velocity?\n\nA. Calculate the average speed.\nB. Find the second derivative of position or first derivative of velocity.\nC. Multiply velocity by time.\nD. Divide distance by time.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44f01acf31b3ee60b2e4bb39773cc6d5"
+       },
+       {
+        "question": "A spring with a constant of $4 (kg)/s^2$ is lying on the ground with one end attached to a wall. An object with a mass of $3  kg$ and speed of $1  m/s$ collides with and compresses the spring until it stops moving. How much will the spring compress?\n\nA. 0.87m\nB. 0.58m\nC. 1.29m\nD. 1.45m\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a9b41f0190987c0884e28c9fda82b8ab"
+       },
+       {
+        "question": "How does electric field affect capacitance?\n\nA. Electric field decreases capacitance.\nB. Electric field doesn't affect capacitance.\nC. Electric field changes capacitance based on geometry.\nD. Electric field increases capacitance.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15ad7238e634926e32b065d962a1d5f1"
+       },
+       {
+        "question": "The gas inside of a container exerts $25   Pa$ of pressure and is at a temperature of $450 ^o K$.  If the temperature of the gas changes to $550 ^oK$ with no change in the container's volume, what is the new pressure of the gas?\n\nA. 30.56 Pa\nB. 28.45 Pa\nC. 27.89 Pa\nD. 32.67 Pa\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "68bf5b0699e3b6c398036b089cd2d083"
+       },
+       {
+        "question": "You place an empty pan directly on top of a stove burner, and turn on the burner. Soon, the temperature of the pan increases. How is heat transferred from the burner to the pan?\n\nA. Heat is transferred mainly by radiation and convection.\nB. Heat is transferred only by conduction.\nC. Heat is transferred mainly by conduction and convection.\nD. Heat is transferred mainly by radiation and conduction.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "fadd7c548486c4e1abaf415077e66346"
+       },
+       {
+        "question": "How does the coulomb law differ from newton's law of universal gravitation?\n\nA. Coulomb's law has positive or negative charges, while gravitational forces are always attractive.\nB. Coulomb's law only applies to charged particles, while gravitational forces affect all objects.\nC. Gravitational forces can be positive or negative, while Coulomb's law forces are always attractive.\nD. Newton's law of universal gravitation has a constant, while Coulomb's law does not.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c7278bc174f77be42ff26dac6510d4cd"
+       },
+       {
+        "question": "A balanced lever has two weights on it, the first with mass $15 kg $ and the second with mass $24  kg$.  If the first weight is $ 7 m$ from the fulcrum, how far is the second weight from the fulcrum?\n\nA. 6.25m\nB. 3.625m\nC. 5.125m\nD. 4.375m\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b31abcb623d0e68a481f4e821a2d3247"
+       },
+       {
+        "question": "Can energy be absorbed when matter changes?\n\nA. Energy absorption only occurs during phase transitions.\nB. Energy is only absorbed during exothermic changes.\nC. Yes, energy can be absorbed during endothermic changes.\nD. No, energy cannot be absorbed during matter changes.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2bf3bb575fe67d8a40977272000c42c3"
+       },
+       {
+        "question": "An object's two dimensional velocity is given by $v(t) = ( t^2 +2t ,  cospit - 3t )$.  What is the object's rate and direction of acceleration at $t=7  $?\n\nA. 18.34 ms^-2, 187.5\u00b0\nB. 14.56 ms^-2, 152.3\u00b0\nC. 12.67 ms^-2, 146.8\u00b0\nD. 16.28 ms^-2, 169.4\u00b0\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "f93f4aa29ec4077f1b3ddee5c1216c2b"
+       },
+       {
+        "question": "How do you measure fluid flow?\n\nA. Measure fluid flow using pressure drop across an orifice.\nB. Measure fluid flow using temperature change.\nC. Measure fluid flow using particle velocity.\nD. Measure fluid flow using fluid viscosity.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "80f47b7e73d766a4cf5cdefe8ae8294a"
+       },
+       {
+        "question": "Why is Newton's first law called inertia?\n\nA. Newton's first law, called inertia, means that a body will always accelerate when a force is applied.\nB. Newton's first law, also called inertia, states that a body remains at rest or in uniform motion unless acted upon by an external force.\nC. Newton's first law, known as inertia, states that a body in motion will eventually come to rest without external forces.\nD. Inertia refers to the tendency of a body to resist changes in its state of rest, unrelated to Newton's first law.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e57e23adba4b1a47883e466e8f51d73e"
+       },
+       {
+        "question": "You throw a football straight up into the air with a speed of 12.2 m/s. How high does the ball go?\n\nA. 6.7m\nB. 5.8m\nC. 9.4m\nD. 7.6m\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d65d62c0f546c0fd4f2a79f1831c66aa"
+       },
+       {
+        "question": "Since there is no temperature lower than absolute zero, is there any maximum temperature possible?\n\nA. Planck's temperature, approximately $1.42 * 10^32$ Kelvin\nB. $2.98 * 10^31$ Kelvin\nC. $6.28 * 10^25$ Kelvin\nD. $7.14 * 10^30$ Kelvin\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c06d732ec5e8851ef974fbe67972d87f"
+       },
+       {
+        "question": "What type of energy does nuclear decay produce?\n\nA. Nuclear decay produces light and magnetic waves.\nB. Nuclear decay produces heat and sound.\nC. Nuclear decay produces chemical energy and radiation.\nD. Nuclear decay produces energy and gamma rays.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44a55e26362f93a8e20e3c6603ab4ab5"
+       },
+       {
+        "question": "If a current of $6 A$ passing through a circuit generates $12 W$ of power, what is the resistance of the circuit?\n\nA. 1/2 \u03a9\nB. 2/3 \u03a9\nC. 1/6 \u03a9\nD. 1/3 \u03a9\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "329928ae545e0f2ff77568f7b299ffd9"
+       },
+       {
+        "question": "An object with a mass of $14$ $kg$ is acted on by two forces.  The first is $F_1= <  5   N , 3 N>$ and the second is $F_2 = <  2   N, 7  N>$.  What is the object's rate and direction of acceleration?\n\nA. 0.87 m/s\u00b2, 55\u00b0\nB. 0.75 m/s\u00b2, 60\u00b0\nC. 1.2 m/s\u00b2, 45\u00b0\nD. 0.95 m/s\u00b2, 50\u00b0\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "71591f34a1562ad562966503e54edf6d"
+       },
+       {
+        "question": "When the plate area of a capacitor increases, what happens to the capacitance?\n\nA. Capacitance decreases with plate area.\nB. Capacitance is inversely proportional to plate area.\nC. Capacitance remains constant with plate area.\nD. Capacitance increases with plate area.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "59991b01eeaa920d2205da46d4ef6604"
+       },
+       {
+        "question": "The force applied against a moving object travelling on a linear path is given by $F(x)=  sinx   +  2$. How much work would it take to move the object over $x in [ 0,pi/3]  $?\n\nA. 1/2 - 2*pi/3\nB. 1/2 + pi/3\nC. 3/2 + 2*pi/3\nD. 1/2 + 2*pi/3\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9df5733db575da8c64cab51574062008"
+       },
+       {
+        "question": "Do humans have gravity fields that can warp Space-Time ?\n\nA. Humans have no impact on the gravitational field at all.\nB. Humans have a negligible effect on the gravitational field relative to Earth.\nC. Humans significantly warp the gravitational field on Earth.\nD. Human gravity fields only affect other humans.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9e6af6f7580b94ff589a5e4fef00a79c"
+       },
+       {
+        "question": "How does particle physics explain fundamental forces?\n\nA. Particle physics explains fundamental forces through Higgs bosons, which give other particles mass and are responsible for the forces of electromagnetism, strong nuclear force, weak nuclear force, and gravity.\nB. Particle physics explains fundamental forces through leptons, which interact with other particles to create forces such as electromagnetism, strong nuclear force, weak nuclear force, and gravity.\nC. Particle physics explains fundamental forces through gauge bosons, which carry these interactions: photons for electromagnetism, gluons for strong nuclear force, and W and Z bosons for weak nuclear force. Gravitons, which carry gravity, remain undiscovered.\nD. Particle physics explains fundamental forces through quarks, which combine to form particles that carry the forces of electromagnetism, strong nuclear force, weak nuclear force, and gravity.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2fc109bf44c2a07df91d8d43513cfa12"
+       },
+       {
+        "question": "How fast will an object with a mass of $16   kg$ accelerate if a force of $40  N$ is constantly applied to it?\n\nA. 4.0 m/s\nB. 3.5 m/s\nC. 2.5 m/s\nD. 1.5 m/s\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "32ab15012e9ac9b59e53bec0d333ffd4"
+       },
+       {
+        "question": "A semi-truck traveling at an average speed of 70 miles per hour covers a distance of 35 miles. How long did it take?\n\nA. 0.5 hours\nB. 0.25 hours\nC. 1 hour\nD. 1.5 hours\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "324dce1f2f17071ddeba370ea39a9526"
+       },
+       {
+        "question": "How do you normalize $(- 7 i -j -25k)$?\n\nA. $\\frac{1}{15}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nB. $\\frac{1}{\\sqrt{3}}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nC. $\\frac{1}{15\\sqrt{3}}(-7\\hat{i}-\\hat{j}-25\\hat{k})$\nD. $\\frac{1}{15\\sqrt{3}}(7\\hat{i}+\\hat{j}+25\\hat{k})$\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e5f82b6a6745c77a8f08a41aece89b1e"
+       },
+       {
+        "question": "What would be the effect of dropping a penny onto someone's head from the top of the tallest building?\n\nA. Might hurt a bit, but no damage.\nB. No effect at all.\nC. Mild headache for a few days.\nD. Severe injury or death.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "20e5a90b3edde6b9a44014f921e7b1b4"
+       },
+       {
+        "question": "What torque would have to be applied to a rod with a length of $5 m$ and a mass of $2   kg$ to change its horizontal spin by a frequency of $2  Hz$ over $6  s$?\n\nA. 6.81 Nm, 39.52 Nm\nB. 12.45 Nm, 28.67 Nm\nC. 8.73 Nm, 34.91 Nm\nD. 10.29 Nm, 31.85 Nm\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e40ac614d7e78def23aa2e1598c51c58"
+       },
+       {
+        "question": "Find the average velocity of a car which travels 360 km in 6 hours, show in m/s and km/h\n\n?\n\nA. 50 km/h, 13.9 m/s\nB. 60 km/h, 16.7 m/s\nC. 70 km/h, 19.4 m/s\nD. 80 km/h, 22.2 m/s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1a5dc94d5f52a5db3e7bb3eec220c3c9"
+       },
+       {
+        "question": "If an object with a mass of $5 kg  $ changes speed from $5m/s$ to $10 m/s$, by how much does its kinetic energy change?\n\nA. 375 J\nB. 425 J\nC. 125 J\nD. 250 J\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b03e5ecca6ad034f2f8d6d0708b23c1f"
+       },
+       {
+        "question": "What are convex mirrors used for?\n\nA. Convex mirrors are used for projection screens, binoculars, periscopes, and virtual reality headsets.\nB. Convex mirrors are used for focusing sunlight, eyeglasses, camera lenses, and microscope objectives.\nC. Convex mirrors are used for security cameras, solar panels, optical fibers, and laser technology.\nD. Convex mirrors are used for collision avoidance, telescopes, magnifying glasses, rear view mirrors, dome mirrors, and street light reflectors.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Light and Reflection",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ede29aa857b6b888b7704c374fea6874"
+       },
+       {
+        "question": "What is magnetic force measured in?\n\nA. Tesla (T)\nB. Gauss (G)\nC. Newtons (N)\nD. Newtons/Coulomb (N/C)\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1243fb4992cdeb499a9a685b8fe20550"
+       },
+       {
+        "question": "How fast will an object with a mass of $8   kg$ accelerate if a force of $29  N$ is constantly applied to it?\n\nA. 2.875 m/s\u00b2\nB. 5.25 m/s\u00b2\nC. 3.625 m/s\u00b2\nD. 4.125 m/s\u00b2\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b266f8452c9de36c0f67190140d91163"
+       },
+       {
+        "question": "An object is at rest at $(4 ,5   ,1    )$ and constantly accelerates at a rate of $5/3  m/s^2$ as it moves to point B.  If point B is at $(7  ,5   ,6  )$, how long will it take for the object to reach point B? Assume that all coordinates are in meters.\n\nA. 2.10s\nB. 3.42s\nC. 1.98s\nD. 2.65s\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7ce0d4ef192340c728a58ea48877e640"
+       },
+       {
+        "question": "What is the force, in terms of Coulomb's constant, between two electrical charges of $-225 C$ and $-15 C$ that are $15 m $ apart?\n\nA. -15k N\nB. -225k N\nC. 15k N\nD. 225k N\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a4a7bc81ab8550b83fde980ee46ca88d"
+       },
+       {
+        "question": "An object with a mass of $3    kg$ is revolving around a point at a distance of $4 m$. If the object is making revolutions at a frequency of $7    Hz$, what is the centripetal force acting on the object?\n\nA. 23213.3 N\nB. 34819.9 N\nC. 46426.6 N\nD. 11606.7 N\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7384091c628310b7ec65123e4a77c029"
+       },
+       {
+        "question": "How do electromagnetic waves transfer energy?\n\nA. Electromagnetic waves transfer energy through sound waves.\nB. Electromagnetic waves transfer energy by direct contact between particles.\nC. Electromagnetic waves transfer energy through the release of heat.\nD. Electromagnetic waves transfer energy through oscillating electric and magnetic fields.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "de31d698f078cc24923ef78ad95c7069"
+       },
+       {
+        "question": "What is a constructive interference?\n\nA. Waves reflecting off a surface.\nB. Waves canceling each other out.\nC. Waves changing frequency.\nD. Waves combining to form a larger wave.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Interference and Diffraction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "724d00a36b339a7f842214214f4228aa"
+       },
+       {
+        "question": "What is thermodynamics?\n\nA. Examination of atomic structure and chemical reactions\nB. Analysis of forces, motion, and gravity\nC. Study of heat, energy, and work in specific conditions\nD. Study of sound, light, and electricity\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5cffffb9a1dd130b6b54f0e34c7e2e4c"
+       },
+       {
+        "question": "What is the projection of $ (-4i + 3k)$ onto $(-2i  -j + 2k)$?\n\nA. <-28/9, -14/9, 28/9>\nB. <28/9, -14/9, -28/9>\nC. <-14/9, -28/9, 28/9>\nD. <-28/9, 14/9, -28/9>\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b6aea3d23d9c8f1237dbdd622889c308"
+       },
+       {
+        "question": "Does capacitance change with frequency?\n\nA. Capacitance doesn't change with frequency, but capacitive reactance does.\nB. Capacitance increases with frequency.\nC. Capacitance decreases with frequency.\nD. Capacitance and frequency are unrelated.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8758a3e92a86600a5b2a82abe28aba9e"
+       },
+       {
+        "question": "How much work does it take to raise a $33 kg    $ weight $89  m    $?\n\nA. 41,673.9 J\nB. 27,782.6 J\nC. 55,565.2 J\nD. 13,891.3 J\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "01865125b1cb87d7b292d389ab214cb2"
+       },
+       {
+        "question": "A container with a volume of $7 L$ contains a gas with a temperature of $420^o   K$.  If the temperature of the gas changes to $360     ^o    K$ without any change in pressure, what must the container's new volume be?\n\nA. 8 L\nB. 6 L\nC. 5 L\nD. 7 L\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b2021aef21e310eb2d59c085e329a98b"
+       },
+       {
+        "question": "What is the length of an aluminum rod at 65\u00b0C if its length at 15\u00b0C is 1.2 meters?\n\nA. 1.20144 m\nB. 1.20288 m\nC. 1.20032 m\nD. 1.19856 m\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6e4d7a4486a6ca071e01632b669820f7"
+       },
+       {
+        "question": "Is the series equivalent resistor larger than either resistor, or is it smaller?\n\nA. Equal to one resistor\nB. Larger than both resistors\nC. Smaller than both resistors\nD. Equal to the average of both resistors\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Knowledge Application",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5886208f795f348c59d5c9206760e075"
+       },
+       {
+        "question": "How should all vector diagrams be drawn?\n\nA. Draw vector diagrams using only a compass and straightedge.\nB. Draw vector diagrams to scale with a ruler and protractor.\nC. Sketch vector diagrams freehand without measurements.\nD. Create vector diagrams digitally with computer software.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b479b0b5070138d4d4ec123b4c081d78"
+       },
+       {
+        "question": "How much power is needed to accelerate an object with a mass of $4   kg$ and a velocity of $8   m/s$ at a rate of $6  m/s^2$?\n\nA. 384W\nB. 96W\nC. 192W\nD. 48W\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "55bd7b90c8164f82557336eec3a3952f"
+       },
+       {
+        "question": "Why is the electric charge on a solid object always explained in terms of an excess or deflcit of electrons?\n\nA. Photons are responsible for electric charge, as they move easily and don't change fundamental properties.\nB. Protons are responsible for electric charge, as they move easily and don't change fundamental properties.\nC. Electrons are the particles responsible for electric charge, as they move easily and don't change fundamental properties.\nD. Neutrons are responsible for electric charge, as they move easily and don't change fundamental properties.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a757e7dcdf130abb983500b138955d9f"
+       },
+       {
+        "question": "Which color in the rainbow has the shortest wavelength?\n\nA. Green\nB. Blue\nC. Violet\nD. Red\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Light and Reflection",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2f428227be8700a2ec57366383bf37a0"
+       },
+       {
+        "question": "A charge of $35 C$ passes through a circuit every $5 s$.  If the circuit can generate $42  W$ of power, what is the circuit's resistance?\n\nA. 1.714 \u03a9\nB. 0.857 \u03a9\nC. 1.285 \u03a9\nD. 0.429 \u03a9\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5fac07e30f2d39a03f1bd52869064b7a"
+       },
+       {
+        "question": "How are Stefan's law and Newton's law of cooling related?\n\nA. $Q \\propto (T^2-T'^2)$\nB. $Q \\propto (T^3-T'^3)$\nC. $Q \\propto (T+T')$\nD. $Q \\propto (T-T')$\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c93ce2e7660f3343feedfdfc967ad7e3"
+       },
+       {
+        "question": "What torque would have to be applied to a rod with a length of $8  m$ and a mass of $6   kg$ to change its horizontal spin by a frequency $7   Hz$ over $3  s$?\n\nA. 402.8 Nm\nB. 536.2 Nm\nC. 588.3 Nm\nD. 469.1 Nm\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "497c07fcea8236fca533765cf44db4fc"
+       },
+       {
+        "question": "Which has more momentum, a $2kg$ object moving at $9m/s$ or a $1kg$ object moving at $7m/s$?\n\nA. 2kg object at 9m/s\nB. 2kg object at 7m/s\nC. 1kg object at 9m/s\nD. 1kg object at 7m/s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5307fe48c6c4b10c7a033df868f3cb51"
+       },
+       {
+        "question": "If a $2 kg$ object is constantly accelerated from $0m/s$ to $16 m/s$ over 6 s, how much power musy be applied at $t=1 $?\n\nA. 16/3 N\nB. 8/3 N\nC. 32/3 N\nD. 4 N\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4151e881f81dab8478c9d394839b75bb"
+       },
+       {
+        "question": "Which has more momentum, a $7kg$ object moving at $4m/s$ or a $6kg$ object moving at $7m/s$?\n\nA. 6kg object at 7m/s\nB. 6kg object at 4m/s\nC. 7kg object at 4m/s\nD. 7kg object at 7m/s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8cba7acf0dac0c9ff3333c9f8776dc51"
+       },
+       {
+        "question": "If a concave and convex lens of equal focus are kept in contact what is the effective focal length?\n\nA. Infinite focal length (equivalent to plane glass)\nB. Zero focal length\nC. Equal to the original focal length\nD. Half of the original focal length\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Refraction",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "802def8cd46f1291eea58116f2896ab5"
+       },
+       {
+        "question": "What is the cross product of $(2i -3j + 4k)$ and $(- 5 i + 4 j - 5 k)$?\n\nA. -1i + 10j - 7k\nB. -1i - 10j + 7k\nC. 1i + 10j + 7k\nD. -1i - 10j - 7k\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "637eed410ba48ab389398221c660fd6a"
+       },
+       {
+        "question": "A man stands on a crane and throws a water balloon down at at 21 m/s. He finds that it takes 2.4s for the balloon to hit the ground. What is its height one second before it hits the ground?\n\nA. 28.745 m\nB. 45.321 m\nC. 52.987 m\nD. 39.633 m\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7b925f654cdd5e68f360a80b96e11c0f"
+       },
+       {
+        "question": "How fast will an object with a mass of $15   kg$ accelerate if a force of $10  N$ is constantly applied to it?\n\nA. 0.67 m/s\u00b2\nB. 0.33 m/s\u00b2\nC. 1.34 m/s\u00b2\nD. 1.00 m/s\u00b2\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3a2172387a542f02506f1333c40ef561"
+       },
+       {
+        "question": "An object is at rest at $(4  ,7   ,3    )$ and constantly accelerates at a rate of $7/5  m/s^2$ as it moves to point B.  If point B is at $(5   ,6   ,9  )$, how long will it take for the object to reach point B? Assume that all coordinates are in meters.\n\nA. 3.0s\nB. 3.5s\nC. 2.5s\nD. 4.0s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4849f2e2a874e03f595327de0b693ca7"
+       },
+       {
+        "question": "A charge of $9 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $9 J$ to $3 J$, what is the voltage between points A and B?\n\nA. -2/3 V\nB. -1/3 V\nC. -1 V\nD. 1/3 V\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "11218475f48614e190bc474b7e09d66c"
+       },
+       {
+        "question": "A cylinder has inner and outer radii of $8 cm$ and $12 cm$, respectively, and a mass of $8 kg$.  If the cylinder's frequency of rotation about its center changes from $7 Hz$ to $3 Hz$, by how much does its angular momentum change?\n\nA. 1.56 kgm\u00b2s\u207b\u00b9\nB. 2.84 kgm\u00b2s\u207b\u00b9\nC. 2.09 kgm\u00b2s\u207b\u00b9\nD. 3.12 kgm\u00b2s\u207b\u00b9\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "23fdac8d3133d66dfa5ecf83d3bb023d"
+       },
+       {
+        "question": "Why is electric force represented as a vector?\n\nA. Electric force is a vector due to its relation to electric field.\nB. Electric force is a vector because it involves distance.\nC. Electric force is a scalar quantity with only magnitude.\nD. Electric force has magnitude and direction, making it a vector quantity.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1c5e28aacbff30f78a4184b1752418a8"
+       },
+       {
+        "question": "Does the sum of the external torques on the rigid object have to equal zero in static equilibrium?\n\nA. In static equilibrium, the sum of external torques depends on the object's mass.\nB. In static equilibrium, only the sum of external forces must be zero.\nC. Yes, in static equilibrium, the sum of external torques must be zero.\nD. No, in static equilibrium, the sum of external torques can be non-zero.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "91e4cb9b301d931cf6f6db51bc703067"
+       },
+       {
+        "question": "How do vectors work in physics?\n\nA. Vectors are lines that indicate the speed of a moving object.\nB. Vectors represent magnitude and direction, often used for displacement, velocity, or force calculations.\nC. Vectors show only direction, used to describe an object's path.\nD. Vectors represent magnitude only, applied in calculating distances.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1da0667c34e7802c75076db29b1f8bad"
+       },
+       {
+        "question": "An electric toy car with a mass of $3 kg$ is powered by a motor with a voltage of $7 V$ and a current supply of $8 A$.  How long will it take for the toy car to accelerate from rest to $8/3 m/s$?\n\nA. 0.190 s\nB. 0.380 s\nC. 0.095 s\nD. 0.285 s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e78837054d181eb23975d26628996cf9"
+       },
+       {
+        "question": "What happens when a substance floats on top of water?\n\nA. A substance floats on water due to chemical reactions, having a larger density than water, or being repelled by water molecules.\nB. A substance floats on water due to surface tension, having a smaller density than water, or having a resulting density smaller than water.\nC. A substance floats on water due to magnetic forces, having a similar density to water, or being attracted to the surface.\nD. A substance floats on water due to evaporation, having a variable density, or forming a protective barrier around itself.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "381e50964a6b98e0ee13483be0782d4b"
+       },
+       {
+        "question": "What is the projection of $ (4 i + 4 j + 2 k)$ onto $(i + j -7k)$?\n\nA. <-3/17, -1/17, 10/17>\nB. <0, -4/17, 16/17>\nC. <-2/17, -2/17, 14/17>\nD. <-1/17, -3/17, 12/17>\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a049ac765d14e55fd32254c36723fbaa"
+       },
+       {
+        "question": "A pulley system with 75% efficiency is set up to lift a 21kg bag of nails. The bag is lifted to a height of 2.3m by a person pulling on the rope with a force of 91.5N. What is the work done on the bag of nails by the pulley?\n\nA. 710.3 J\nB. 450.2 J\nC. 982.5 J\nD. 656.1 J\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ce4fb0832ceb87f74db1d607d77c6bfb"
+       },
+       {
+        "question": "What torque would have to be applied to a rod with a length of $1 m$ and a mass of $2   kg$ to change its horizontal spin by a frequency of $3   Hz$ over $4  s$?\n\nA. 1.57 Nm\nB. 4.71 Nm\nC. 2.36 Nm\nD. 0.785 Nm, 3.14 Nm\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7da8954388b7fa0f4d7492176143054e"
+       },
+       {
+        "question": "What is the cross product of $<-3,0,1>$ and $<0,8,5>$?\n\nA. <24, -15, 8>\nB. <-8, 15, -24>\nC. <-24, 15, -8>\nD. <8, -15, 24>\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c56fdd35afe65f9d486b839958a56b21"
+       },
+       {
+        "question": "A ball with a mass of $4 kg$ moving at $6 m/s$ hits a still ball with a mass of $8 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 2 m/s\nB. 3 m/s\nC. 4 m/s\nD. 6 m/s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d52b62bf35258edb231e749d80529eb2"
+       },
+       {
+        "question": "Can gravity do work on an object?\n\nA. Gravity can only do work on specific objects.\nB. Gravity does not affect objects in motion.\nC. No, gravity cannot do work on an object.\nD. Yes, gravity can do work on an object.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d90afb650b62a5f3e824ee1e2e4b5b32"
+       },
+       {
+        "question": "How do lines of magnetic force travel?\n\nA. From North pole to South pole\nB. From South pole to North pole\nC. In random directions\nD. In circular paths around the poles\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2563bbb3c511f1ea89dd12e60f7be289"
+       },
+       {
+        "question": "An object with a mass of $3  kg$ is acted on by two forces.  The first is $F_1= < -2   N , -3 N>$ and the second is $F_2 = <  -1   N, 1  N>$.  What is the object's rate and direction of acceleration?\n\nA. <-1, -2/3> m/s\u00b2, 213.7\u00b0\nB. <1, 2/3> m/s\u00b2, 180\u00b0\nC. <1, -2/3> m/s\u00b2, 33.7\u00b0\nD. <-1, 2/3> m/s\u00b2, 146.3\u00b0\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5d0f5f1fc2f4acde488bbebbb301f5a9"
+       },
+       {
+        "question": "What is the moment of inertia of a pendulum with a mass of $4 kg$ that is $2 m$ from the pivot?\n\nA. 16 kgm^2\nB. 8 kgm^2\nC. 4 kgm^2\nD. 32 kgm^2\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "f13ab828dc877b2c847244374b176a0e"
+       },
+       {
+        "question": "A star with the same color as the Sun is found to produces a luminosity 81 times larger.  What is its radius compared to the Sun?\n\nA. 12 times the Sun's radius\nB. 9 times the Sun's radius\nC. 6 times the Sun's radius\nD. 3 times the Sun's radius\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d4ad069c068cbcd7e0770a600e6baec4"
+       },
+       {
+        "question": "A ball with a mass of $3 kg $ and velocity of $5  m/s$ collides with a second ball with a mass of $7 kg$ and velocity of $-  2 m/s$. If $25%$ of the kinetic energy is lost, what are the final velocities of the balls?\n\nA. v1 = -2.28 m/s or 3.78 m/s, v2 = 0.83 m/s or -1.33 m/s\nB. v1 = -2.78 m/s or 2.28 m/s, v2 = 1.33 m/s or -0.83 m/s\nC. v1 = -1.78 m/s or 3.28 m/s, v2 = 0.33 m/s or -1.83 m/s\nD. v1 = -3.28 m/s or 1.78 m/s, v2 = 2.33 m/s or -0.33 m/s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6a64c3d85bea5ccac6a86385119a1c25"
+       },
+       {
+        "question": "What types of systems/objects exhibit simple harmonic motion?\n\nA. Capacitor with inductor, mass with spring, buoyant force\nB. Electric force, pressure, rotational motion\nC. Gravitational force, air resistance, tension\nD. Pulley system, frictional force, magnetic force\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Waves and Vibrations",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ff73db07e12db6bd3298d7055db5425a"
+       },
+       {
+        "question": "A 12 gram piece of aluminum (cp = .215 cal/g\u00b0C) at 70\u00b0C is placed in a beaker that contains 35 grams of water at 15\u00b0C. At what temperature will they come to thermal equilibrium?\n\nA. 16.3\u00b0C\nB. 18.8\u00b0C\nC. 22.1\u00b0C\nD. 20.5\u00b0C\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "fb101dbddcba3564b15e714c01278f98"
+       },
+       {
+        "question": "What are actuators and transducers?\n\nA. Actuators operate valves, while transducers convert energy types.\nB. Actuators convert energy types, while transducers operate valves.\nC. Actuators and transducers both convert energy and control valves.\nD. Transducers control valves, while actuators transform energy forms.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "d724fc052667de618d379810a4841f2d"
+       },
+       {
+        "question": "Mike is playing his speaker at an unknown frequency. His friend, Emma, gets on her bike and rides away from Mike at a uniform speed, holding an open-air column horizontally over her head. What was the frequency of the sound coming from Mike's speaker?\n\nA. 1124.33Hz\nB. 1119.33Hz, 1109.33Hz\nC. 1130.33Hz\nD. 1104.33Hz\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "2093c8d517f2cbafdc102d3fc64450b6"
+       },
+       {
+        "question": "How much work would it take to push a $   5  kg  $ weight up a $  4   m $ plane that is at an incline of $  pi  /  4 $?\n\nA. 196.8 J\nB. 72.4 J\nC. 110.2 J\nD. 138.6 J\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4a595a3db2acb18c62672eb6fb7cbece"
+       },
+       {
+        "question": "A balanced lever has two weights on it, the first with mass $7 kg $ and the second with mass $4 kg$.  If the first weight is $ 3 m$ from the fulcrum, how far is the second weight from the fulcrum?\n\nA. 6 m\nB. 4.5 m\nC. 5.25 m\nD. 3.75 m\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "91fb12af5d407df0d6aa8453ea3c1749"
+       },
+       {
+        "question": "Why is it that alternating current cannot be stored?\n\nA. AC can be stored directly in batteries without conversion.\nB. AC can't be stored because it's too dangerous to handle.\nC. AC storage is impossible due to its continuous oscillation.\nD. AC can't be stored directly, but can be converted to DC for storage using devices like batteries and capacitors.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1511518a79d01ab7db6584310a3a0bc7"
+       },
+       {
+        "question": "How does force differ from impulse?\n\nA. Force is the change in momentum, while impulse is the cause of that change.\nB. Impulse is the change in velocity, while force is the cause of that change.\nC. Force is the change in velocity, while impulse is the cause of that change.\nD. Impulse is the change in momentum, while force is the cause of that change.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15b0d0e5a16ba5dcaefdb92888663556"
+       },
+       {
+        "question": "How do you normalize $ (- 4 i - 5 j + 2k)$?\n\nA. $\\frac{1}{3\\sqrt{5}}(4i - 5j + 2k)$\nB. $\\frac{1}{3\\sqrt{5}}(-4i - 5j - 2k)$\nC. $\\frac{1}{3\\sqrt{5}}(-4i + 5j + 2k)$\nD. $\\frac{1}{3\\sqrt{5}}(-4i - 5j + 2k)$\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "000dbfaa185284f2e22b746f6714e2aa"
+       },
+       {
+        "question": "A ball with a mass of $7 kg$ moving at $3 m/s$ hits a still ball with a mass of $18 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 2.34 m/s\nB. 0.58 m/s\nC. 1.17 m/s\nD. 0.89 m/s\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b3db09717d1adffb7b6f914a5b0038a0"
+       },
+       {
+        "question": "If the length of a $42 cm$ spring increases to $87 cm$ when a $1 kg$ weight is hanging from it, what is the spring's constant?\n\nA. 15.334 N/m\nB. 21.778 N/m\nC. 34.216 N/m\nD. 27.492 N/m\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "55f091cc6cccf77097758df95562ecc2"
+       },
+       {
+        "question": "What is the cross product of $(-300i + 200j - 150k)$ and $(i + j -7k)$?\n\nA. -1250i - 2200j - 550k\nB. -1250i - 2250j - 500k\nC. -1350i - 2150j - 600k\nD. -1200i - 2300j - 450k\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "da722112ef13541d40449933f8f8d780"
+       },
+       {
+        "question": "What is quantum physics?\n\nA. Quantum physics is a branch of physics that explains the properties and behaviors of particles at the atomic and subatomic level, using quantized energy levels and probabilities.\nB. Quantum physics is the science of heat transfer, thermodynamics, and the behavior of particles in various temperature conditions.\nC. Quantum physics is the study of gravity and its effects on celestial bodies in the universe.\nD. Quantum physics is the field that focuses on the laws of motion and the forces acting on objects at macroscopic scales.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Atomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "22f74c4dbb4a7b50bb7ec5682985b0e2"
+       },
+       {
+        "question": "An object with a mass of $4  kg$ is acted on by two forces.  The first is $F_1= < 8   N , -6 N>$ and the second is $F_2 = <  2   N, 7  N>$.  What is the object's rate and direction of acceleration?\n\nA. 2.5 m/s\u00b2, 10.3\u00b0\nB. 3.1 m/s\u00b2, 4.2\u00b0\nC. 2.5 m/s\u00b2, 5.7\u00b0\nD. 1.9 m/s\u00b2, 5.7\u00b0\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "42dc6d6e8bc6e75f1ae2fb7c93473c04"
+       },
+       {
+        "question": "A solid disk, spinning counter-clockwise, has a mass of $9    kg$ and a radius of $4 m$.  If a point on the edge of the disk is moving at $15 m/s$ in the direction perpendicular to the disk's radius, what is the disk's angular momentum and velocity?\n\nA. 30.2 rad/s, 2184.6 kgm\u00b2/s\nB. 23.6 rad/s, 1696.5 kgm\u00b2/s\nC. 18.4 rad/s, 1392.3 kgm\u00b2/s\nD. 25.8 rad/s, 1903.7 kgm\u00b2/s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b205fdc316030520626f173560ccc6a2"
+       },
+       {
+        "question": "How does electromagnetic force relate to the creation of electricity?\n\nA. Electromagnetic force is unrelated to electricity.\nB. Electricity is generated by chemical reactions.\nC. Electricity is created by static charges.\nD. Moving magnets through wires induces electricity.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Magnetism",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a73c2a467d64202fff41c7b2ffd8a79d"
+       },
+       {
+        "question": "An object with a mass of $6  kg$ is moving at $27   m/s$ over a surface with a kinetic friction coefficient of $6 $.  How much power will it take to accelerate the object at $8  m/s^2?\n\nA. 9563.2 W\nB. 10234.7 W\nC. 12048.4 W\nD. 10821.6 W\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "03dee4fd7e5ccdfa26724a954f29ec9b"
+       },
+       {
+        "question": "The gas inside of a container exerts $84   Pa$ of pressure and is at a temperature of $420 ^o K$.  If the pressure in the container changes to $64 Pa$ with no change in the container's volume, what is the new temperature of the gas?\n\nA. 400 K\nB. 320 K\nC. 480 K\nD. 240 K\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "002afedbbdd9a7276c1be83a6d5eff73"
+       },
+       {
+        "question": "What sound waves can humans hear?\n\nA. Humans can hear sounds in the range of 20-20,000 Hz.\nB. Humans can hear sounds in the range of 10-10,000 Hz.\nC. Humans can hear sounds in the range of 30-30,000 Hz.\nD. Humans can hear sounds in the range of 5-50,000 Hz.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "00aca24d71425154d81c8fcaaf2d793e"
+       },
+       {
+        "question": "A projectile is shot from the ground at a velocity of $24   m/s$ and at an angle of $(2pi)/3$.  How long will it take for the projectile to land?\n\nA. 3.89 s\nB. 4.67 s\nC. 5.12 s\nD. 4.24 s\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "95120496bf0fd463d07951a2af4949e9"
+       },
+       {
+        "question": "A ball with a mass of $2  kg$ is rolling at $4   m/s$ and elastically collides with a resting ball with a mass of $4  kg$. What are the post-collision velocities of the balls?\n\nA. -2.67 m/s, 1.33 m/s\nB. 3.33 m/s, 1.67 m/s\nC. 1.33 m/s, -2.67 m/s\nD. -1.33 m/s, 2.67 m/s\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9370f69f2054745d42ec999f25ecbba3"
+       },
+       {
+        "question": "A model train, with a mass of $4 kg$, is moving on a circular track with a radius of $2 m$.  If the train's kinetic energy changes from $4 j$ to $15 j$, by how much will the centripetal force applied by the tracks change by?\n\nA. 13 N\nB. 15 N\nC. 11 N\nD. 9 N\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "88b4d29fa084b1b37072f14156da5117"
+       },
+       {
+        "question": "How do you normalize $ (4 i + 4 j + 2 k)$?\n\nA. 1/2i + 1/2j + 1/4k\nB. 2/3i + 2/3j + 1/3k\nC. 1/3i + 1/3j + 2/3k\nD. 2/3i + 1/3j + 2/3k\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a4f02777034c67d76d7d9111d3d9ed80"
+       },
+       {
+        "question": "What nuclear reaction is classified as alpha decay?\n\nA. Alpha decay: mass number increases by 4, atomic number increases by 2, emits Helium-4 nucleus.\nB. Beta decay: mass number decreases by 4, atomic number decreases by 2, emits Helium-4 nucleus.\nC. Gamma decay: mass number decreases by 4, atomic number decreases by 2, emits Helium-4 nucleus.\nD. Alpha decay: mass number decreases by 4, atomic number decreases by 2, emits Helium-4 nucleus.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0f87fd8e8c1215a6f0511be7baae650a"
+       },
+       {
+        "question": "Some very hot rocks have a temperature of $280 ^o C$ and a specific heat of $40  J/(Kg*K)$.  The rocks are bathed in $30 L$ of boiling water.  If the heat of the rocks completely vaporizes the water, what is the minimum combined mass of the rocks?\n\nA. 12732.5 kg\nB. 15000 kg\nC. 9404.2 kg\nD. 4508.1 kg\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "a532986afe472f24d22f0e89b005d36d"
+       },
+       {
+        "question": "How can convection help to cool your body?\n\nA. Convection warms your body by circulating heated air or water around it.\nB. Convection cools your body by increasing the temperature of the surrounding air or water.\nC. Convection helps maintain your body temperature by evenly distributing heat throughout the air or water.\nD. Convection cools your body by removing the heated layer of air or water surrounding it, forcing your body to heat up a new layer.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6a66a412778145e07faac8302d6da7d8"
+       },
+       {
+        "question": "In the given radioactive decay if the mass number and atomic number of D2 are 176 and 71 respectively.What is the mass number and atomic number of D?\nD----->D1------->D2\n  Bita    alpha particle\n\nA. Mass number: 180, Atomic number: 74\nB. Mass number: 176, Atomic number: 71\nC. Mass number: 184, Atomic number: 70\nD. Mass number: 180, Atomic number: 72\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "bba89f3ec5e3225b0996a589460ac700"
+       },
+       {
+        "question": "How much power is produced if a voltage of $2   V$ is applied to a circuit with a resistance of $44  Omega$?\n\nA. 0.18 watts\nB. 0.036 watts\nC. 0.045 watts\nD. 0.09 watts\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1947de8784060e7907a7600d6fa98d22"
+       },
+       {
+        "question": "A ball with a mass of $5 kg $ and velocity of $6  m/s$ collides with a second ball with a mass of $3 kg$ and velocity of $-  7 m/s$. If $40%$ of the kinetic energy is lost, what are the final velocities of the balls?\n\nA. v1: -3.16 m/s or 0.91 m/s; v2: 8.27 m/s or -1.48 m/s\nB. v1: -2.47 m/s or 1.33 m/s; v2: 7.42 m/s or -0.53 m/s\nC. v1: -2.85 m/s or 1.12 m/s; v2: 7.95 m/s or -0.76 m/s\nD. v1: -3.52 m/s or 0.67 m/s; v2: 8.66 m/s or -1.89 m/s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "92c3c519c74512c323d366bfcdef5f81"
+       },
+       {
+        "question": "Which has more momentum, an object with a mass of $9kg$ moving at $8m/s$ or an object with a mass of $6kg$ moving at $14m/s$?\n\nA. Second object (6kg, 14m/s)\nB. Momentum cannot be compared\nC. First object (9kg, 8m/s)\nD. Both have equal momentum\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "abca0edaa4b679d8de62c4b3045981bc"
+       },
+       {
+        "question": "A $6 L$ container holds $5 $ mol and $6 $ mol of gasses A and B, respectively.  Groups of three of molecules of gas B bind to two molecules of gas A and the reaction changes the temperature from $480^oK$ to $270^oK$. How much does the pressure change?\n\nA. Pressure change: 4987500 N/m^2\nB. Pressure change: 7202100 N/m^2\nC. Pressure change: 6190950 N/m^2\nD. Pressure change: 3754300 N/m^2\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "679884d5560d34f38634bc6d23c9a4d7"
+       },
+       {
+        "question": "How does force affect friction?\n\nA. Force affects friction by reducing contact between surfaces.\nB. Force affects friction by pushing two sliding surfaces together.\nC. Force affects friction by changing the surface area of contact.\nD. Force affects friction by increasing the speed of motion.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0afe382f5912df399b5584cf28176b01"
+       },
+       {
+        "question": "A 300g ball at rest is struck with a bat with a force of 150N. If the bat was in contact with the ball, for 0.02 seconds, what is the ball's velocity?\n\nA. 5 m/s\nB. 20 m/s\nC. 10 m/s\nD. 15 m/s\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Forces and Newton's Laws",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3ccb9b23c7052eaf4cf95658f569c6fe"
+       },
+       {
+        "question": "An arrow is shot at a target 20 m away. The arrow is shot with a horizontal velocity of 60 m/s. How long is the arrow in the air for, and how far does the arrow drop as it approaches the target?\n\nA. 0.28s, 0.48m\nB. 0.45s, 0.65m\nC. 0.33s, 0.53m\nD. 0.37s, 0.59m\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1b3d8d31fff129d0813815710db06ac1"
+       },
+       {
+        "question": "A ball with a mass of $3 kg$ moving at $1 m/s$ hits a still ball with a mass of $7 kg$.  If the first ball stops moving, how fast is the second ball moving?\n\nA. 3/7 m/s\nB. 7/3 m/s\nC. 1/3 m/s\nD. 4/7 m/s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ab3d95905f3c8952267287aa52928f97"
+       },
+       {
+        "question": "A tourist calculated that if he walks to the railroad station with a speed of 4 mph, he\u2019ll miss the train by half an hour, but if he walks with a speed of 5 mph, he\u2019ll reach the station 6 minutes before the departure of the train ?\n\nA. Train station is 10 miles away\nB. Train station is 12 miles away\nC. Train station is 16 miles away\nD. Train station is 14 miles away\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "223d4eb71ab10937f9cc9a483a7ab143"
+       },
+       {
+        "question": "An object is at rest at $(8  ,6   ,9    )$ and constantly accelerates at a rate of $1  m/s$ as it moves to point B.  If point B is at $(6   ,4   ,3   )$, how long will it take for the object to reach point B? Assume that all coordinates are in meters.\n\nA. 5.12s\nB. 3.64s\nC. 2.89s\nD. 4.53s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "1c9cceaf5dbc1d1d469b4b2354dfaac5"
+       },
+       {
+        "question": "How do speed and velocity differ from each other?\n\nA. Speed has magnitude and direction; velocity has magnitude only.\nB. Both speed and velocity have magnitude and direction.\nC. Speed has direction only; velocity has magnitude and direction.\nD. Speed has magnitude only; velocity has magnitude and direction.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7c9930328f07c8b252e1c593f57f1b01"
+       },
+       {
+        "question": "Astudent hears a police siren. What would change the frequency that the student hears?\n\nA. The student's distance from the siren alters the frequency.\nB. The frequency changes due to the loudness of the siren.\nC. The frequency changes due to interference with other sounds.\nD. Doppler effect changes the frequency due to difference in velocities of source and detector.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9e64055834bd5c5485919274ebd52d25"
+       },
+       {
+        "question": "A charge of $12 C$ passes through a circuit every $3 s$.  If the circuit can generate $6 W$ of power, what is the circuit's resistance?\n\nA. 0.375\u03a9\nB. 0.75\u03a9\nC. 0.1875\u03a9\nD. 1.5\u03a9\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7378b8de0348ec3dc9c9fafe9fc75f30"
+       },
+       {
+        "question": "A charge of $8 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $32 J$ to $4 J$, what is the voltage between points A and B?\n\nA. 3.5 V\nB. 2.5 V\nC. 4.5 V\nD. 5.5 V\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7c1b8166670eb50079805320e7ff4524"
+       },
+       {
+        "question": "A charge of $16 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $32 J$ to $4   J$, what is the voltage between points A and B?\n\nA. 1.75V\nB. 2.25V\nC. 1.25V\nD. 3.5V\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5ded071f9b1b1d0dce2a81e481be6718"
+       },
+       {
+        "question": "Is there any particle that have no mass?\n\nA. Electron\nB. Neutron\nC. Photon\nD. Proton\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Subatomic Physics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "be3f44b81a815eed5299d14512f36552"
+       },
+       {
+        "question": "What torque would have to be applied to a rod with a length of $4  m$ and a mass of $4   kg$ to change its horizontal spin by a frequency $7   Hz$ over $1 s$?\n\nA. 187.2 Nm\nB. 351.8 Nm\nC. 234.6 Nm\nD. 292.4 Nm\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "4eec55606c615e651e2d560ff3b7f47e"
+       },
+       {
+        "question": "The gas is enclosed in a metal container with movable piston  on top . heat is added to the system from bottom by placing a candle at the bottom which of the following is true ?\n\nA. Temperature must decrease if the piston remains stationary.\nB. Temperature remains constant if the piston remains stationary.\nC. Pressure must decrease if the piston remains stationary.\nD. Temperature must increase if the piston remains stationary.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "cbdda8ea8ff9a7cec1ff66603a5eb32d"
+       },
+       {
+        "question": "If a projectile is shot at an angle of $(2pi)/3$ and at a velocity of $6 m/s$, when will it reach its maximum height?\n\nA. 1.06 s\nB. 0.79 s\nC. 0.26 s\nD. 0.53 s\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "993322dc729aebab3b5ed74dc55d65cf"
+       },
+       {
+        "question": "What happens to pressure if it is concentrated into a small area?\n\nA. Pressure decreases when force is concentrated into a smaller area.\nB. Pressure becomes unpredictable when force is concentrated into a smaller area.\nC. Pressure remains constant when force is concentrated into a smaller area.\nD. Pressure increases when force is concentrated into a smaller area.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Fluid Mechanics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98cb27d543b0747a8f6eaa444c2d4069"
+       },
+       {
+        "question": "In a large ripple tank, a wave producing machine working at a frequency of 30 Hz produces 25 complete waves in a distance of  0.5 m. What would be the velocity of an individual wave? Thanks!\n\nA. 0.9 m/s\nB. 0.6 m/s\nC. 1.2 m/s\nD. 0.3 m/s\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "e704130eca3a910cae57b61d08e8b28b"
+       },
+       {
+        "question": "How can electric charges be produced by rubbing?\n\nA. Electric charges are produced by rubbing due to friction between materials.\nB. Rubbing two materials causes electron migration, making one material negatively charged and the other positively charged.\nC. Rubbing causes materials to exchange protons, creating electric charges.\nD. Rubbing two materials generates heat, which produces electric charges.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98bc94176ccf3e23c17230d6d6c16d0b"
+       },
+       {
+        "question": "What is the projection of $(j+2k)$ onto $ ( i+2j)$?\n\nA. 4/5j + 2/5k\nB. 3/5j + 1/5k\nC. 2/5j + 4/5k\nD. 1/5j + 3/5k\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "47b565a7873213857d7280f59dbe30eb"
+       },
+       {
+        "question": "A projectile is shot at an angle of $pi/8   $ and a velocity of $ 5 m/s$. How far away will the projectile land?\n\nA. 2.4 m\nB. 3.0 m\nC. 1.2 m\nD. 1.8 m\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "3fd438d24356777cfba75eed3e03b537"
+       },
+       {
+        "question": "A charge of $4 C$ is passing through points A and B on a circuit.  If the charge's electric potential changes from $42 J$ to $15 J$, what is the voltage between points A and B?\n\nA. 3.25V\nB. 6.75V\nC. 9.50V\nD. 12.75V\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "44c96fa502705bf08d2bf45828cdb024"
+       },
+       {
+        "question": "Why does the location of the center of gravity depend on how an object\u2019s mass is distributed?\n\nA. Center of gravity depends on the object's temperature and pressure.\nB. Center of gravity depends on the surrounding environment and altitude.\nC. Center of gravity depends on the object's color and texture.\nD. Center of gravity depends on mass distribution and object's shape and size.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Rotational Motion",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "49604a91253cf8b4b5c08139a10323f6"
+       },
+       {
+        "question": "How do you normalize $ <0,8,5>$?\n\nA. (0, 5/sqrt(89), 8/sqrt(89))\nB. (5/sqrt(89), 8/sqrt(89), 0)\nC. (0, 8/sqrt(89), 5/sqrt(89))\nD. (8/sqrt(89), 0, 5/sqrt(89))\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5b8f00df3955c3dc22df15924b6c9986"
+       },
+       {
+        "question": "What is the dot product of $<7,-3,  9  >$ and $<4,2,-9    >$?\n\nA. -60\nB. -57\nC. -58\nD. -59\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b72acee98f9d3eea22bf29d8b52abc14"
+       },
+       {
+        "question": "What electric charge is characteristic for an ion of oxygen?\n\nA. -1\nB. +2\nC. +1\nD. -2\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ea3a586d8aabab6f7fd508c33690ed7a"
+       },
+       {
+        "question": "Is momentum conserved in an elastic collision but not in an inelastic collision?\n\nA. Momentum is conserved only in inelastic collisions.\nB. Momentum is conserved in both elastic and inelastic collisions.\nC. Momentum is conserved only in elastic collisions.\nD. Momentum is not conserved in either type of collision.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9b9dd72e50ee5da476a0b2bf367bc8f0"
+       },
+       {
+        "question": "A 0.145 kg baseball is thrown with a velocity of 40 m/s. What is the baseball's momentum?\n\nA. 7.25 kg m/s\nB. 11.6 kg m/s\nC. 5.8 kg m/s\nD. 2.9 kg m/s\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "54f12230c881b0bdd4afe29e9b9827ef"
+       },
+       {
+        "question": "A spring with a constant of $6/7 (kg)/s^2$ is lying on the ground with one end attached to a wall. An object with a mass of $3/5  kg$ and speed of $3/4  m/s$ collides with and compresses the spring until it stops moving. How much will the spring compress?\n\nA. \u221a(97/480) m\nB. \u221a(151/480) m\nC. \u221a(189/480) m\nD. \u221a(289/480) m\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "98069cdfa5c62c7eb6aaba859aa4c814"
+       },
+       {
+        "question": "How can I measure alternating current?\n\nA. Use a voltmeter in parallel.\nB. Measure with a DC ammeter.\nC. Calculate using Ohm's Law.\nD. Use an AC ammeter or a clamp meter.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electromagnetic Induction",
+        "ability": "Knowledge Application",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "37f4619bd91e20f4a999f823eb46b6b0"
+       },
+       {
+        "question": "Is the acceleration of a free-falling object uniform?\n\nA. No, it's always non-uniform\nB. Yes, in a simplified model without outside forces\nC. Yes, even considering outside forces\nD. No, only when outside forces are present\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "832923ea5319daa6c2b7110722c4ae8c"
+       },
+       {
+        "question": "A projectile is shot from the ground at an angle of $pi/8   $ and a speed of $12    m/s$. When the projectile is at its maximum height, what will its distance, factoring in height and horizontal distance, from the starting point be?\n\nA. 4.8m\nB. 5.7m\nC. 5.2m\nD. 6.1m\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "ab7ed0a8cc888f4eb45eb90dec726c31"
+       },
+       {
+        "question": "What are calorimeters made of and why?\n\nA. Calorimeters are made of thin aluminum sheets.\nB. Calorimeters are made of thin brass sheets.\nC. Calorimeters are made of thin copper sheets.\nD. Calorimeters are made of thin stainless steel sheets.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Thermodynamics",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc6c07c0e75ab6941002780271b226c4"
+       },
+       {
+        "question": "What is $  ||  < -2 ,  3  ,  6   >  ||   $?\n\nA. 9\nB. 5\nC. 7\nD. 8\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "c45533e45620baaaca848cf54847dd00"
+       },
+       {
+        "question": "Why is the electric field inside a conductor zero?\n\nA. The electric field inside a conductor is zero because the conductor absorbs all the energy.\nB. Conductors have a natural property that prevents any electric field from forming inside them.\nC. An electric field exists inside a conductor, but it's too weak to affect the free electrons.\nD. In electrostatic equilibrium, no electric field exists inside a conductor because it would cause free electrons to accelerate, which contradicts the equilibrium condition.\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Electric Forces and Fields",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "5265350324b0d2c139d7303f46a72e05"
+       },
+       {
+        "question": "A model train, with a mass of $8 kg$, is moving on a circular track with a radius of $2 m$.  If the train's kinetic energy changes from $8 j$ to $48 j$, by how much will the centripetal force applied by the tracks change by?\n\nA. 20 N\nB. 60 N\nC. 80 N\nD. 40 N\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "0970ed5464a228e792497673e5176787"
+       },
+       {
+        "question": "A ball with a mass of $ 3    kg$ is rolling at $8  m/s$ and elastically collides with a resting ball with a mass of $4  kg$. What are the post-collision velocities of the balls?\n\nA. v1 = 8 m/s, v2 = 0 m/s or v1 = -1.14 m/s, v2 = 6.86 m/s\nB. v1 = 4 m/s, v2 = 2 m/s\nC. v1 = 2 m/s, v2 = 4 m/s\nD. v1 = 6 m/s, v2 = 3 m/s\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Momentum and Collisions",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "18645921232f7e355a112ce9a40b707a"
+       },
+       {
+        "question": "If a rocket with a mass of 2900 tons vertically accelerates at a rate of $ 2/9 m/s^2$, how much power will the rocket have to exert to maintain its acceleration at 6 seconds?\n\nA. 50.1 MW\nB. 42.3 MW\nC. 35.9 MW\nD. 28.6 MW\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "15dab5827a1aa898025c1339867cdc28"
+       },
+       {
+        "question": "If C1, a 4.7 \u00b5F capacitor, and C2, a 3.3 \u00b5F capacitor are in series with 18 Vdc applied, what is the voltage across C1?\n\nA. 4.86V\nB. 10.57V\nC. 12.34V\nD. 7.43V\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "25f535259f10181673ef7ce198e995fb"
+       },
+       {
+        "question": "A ball is thrown into the air at some angle. At the very top of the ball's path, what is always 0?\n\nA. Horizontal velocity\nB. Air resistance\nC. Vertical velocity\nD. Acceleration\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "49e7935bf3a1d540ccf7f1fceb3c695a"
+       },
+       {
+        "question": "A balanced lever has two weights on it, the first with mass $7 kg $ and the second with mass $25 kg$.  If the first weight is $ 6 m$ from the fulcrum, how far is the second weight from the fulcrum?\n\nA. 1.34m\nB. 1.96m\nC. 2.12m\nD. 1.68m\n\nAnswer:",
+        "answer": [
+         "D"
+        ],
+        "category": "physics",
+        "topic": "Work and Energy",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "b973412b83cece304805e023304077b9"
+       },
+       {
+        "question": "How do you convert 7\u00b0C to the Kelvin scale ?\n\nA. 280K\nB. 283K\nC. 277K\nD. 290K\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc9cb752b56de07d59693388f7c762d9"
+       },
+       {
+        "question": "How do sound waves travel by refraction?\n\nA. Sound waves travel by refraction when they bounce off surfaces, creating echoes and reverberations.\nB. Sound waves travel by refraction when they change direction due to varying properties of the medium they pass through, causing changes in speed and wavelength.\nC. Sound waves travel by refraction when they split into multiple frequencies, resulting in a dispersed sound.\nD. Sound waves travel by refraction when they are absorbed by different materials, causing a dampening effect.\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "Sound",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "dc0f069cf52eb0b3e2c33025c6835390"
+       },
+       {
+        "question": "What is the largest index of refraction that the liquid can have, such that none of the light is transmitted into the liquid and all of it is reflected back into the glass?\n\nA. n_l = 1.50\nB. n_l \u2265 1.50\nC. n_l < 1.50\nD. n_l > 1.50\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Refraction",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6b13f7131337dc310a74a4204dd0394d"
+       },
+       {
+        "question": "What is the difference between Fg = mg and Universal Gravitation?\n\nA. Fg = mg originates from Newton's laws of motion, while Universal Gravitation involves the gravitational constant (G), mass (M), and radius (R) of Earth.\nB. Fg = mg is only applicable on Earth, while Universal Gravitation applies to all celestial bodies.\nC. Universal Gravitation is a generalization of Fg = mg for objects with varying masses.\nD. Fg = mg is a simplified version of Universal Gravitation for small objects.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Circular Motion and Gravitation",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "8fbf32dcdd84aaddc2220aeceb597597"
+       },
+       {
+        "question": "If an object is moving at $15 m/s$ and accelerates to $19 m/s$ over 4 seconds, what was the object's rate of acceleration?\n\nA. 1 m/s\u00b2\nB. 2 m/s\u00b2\nC. 1.5 m/s\u00b2\nD. 0.5 m/s\u00b2\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "1D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "9aaf32657410932c4694127661932653"
+       },
+       {
+        "question": "A circuit with a resistance of $6 Omega$ has a fuse that melts at $8 A$.  Can a voltage of $12 V$ be applied to the circuit without blowing the fuse?\n\nA. No, 12V will blow the fuse.\nB. No, the fuse can only handle 6V.\nC. Yes, 12V won't blow the fuse.\nD. Yes, but only if the resistance is increased.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Electrical Energy and Current",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6b88510448b27f7a7451f2c4e6bb3aed"
+       },
+       {
+        "question": "If a projectile is shot at a velocity of $7 m/s$ and an angle of $pi/3$, how far will the projectile travel before landing?\n\nA. 5.12 m\nB. 4.33 m\nC. 6.28 m\nD. 3.67 m\n\nAnswer:",
+        "answer": [
+         "B"
+        ],
+        "category": "physics",
+        "topic": "2D Motion",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "6d798cfd31085c72a3f54b7e3ad1c780"
+       },
+       {
+        "question": "What is a series circuit?\n\nA. A single-path circuit where current flows through each device in order.\nB. A circuit with only one device connected.\nC. A circuit with multiple paths for current to flow.\nD. A circuit where devices share the same voltage.\n\nAnswer:",
+        "answer": [
+         "A"
+        ],
+        "category": "physics",
+        "topic": "Circuits",
+        "ability": "Base Knowledge",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "57874d971ee6caeb50ebdeedb66cb9f6"
+       },
+       {
+        "question": "How is it that you can have both water and ice at 0 \u00b0C and both water and steam at 100 \u00b0C?\n\nA. The density of water changes at 0\u00b0C and 100\u00b0C, allowing both water and ice or water and steam to coexist.\nB. The specific heat capacity of water allows for both water and ice or water and steam to exist at the same temperatures.\nC. Temperature is related to the average kinetic energy of molecules, and phase transitions occur when energy is used to change molecular bonds without changing kinetic energy.\nD. Water and ice, or water and steam, have different molecular structures that allow them to exist at the same temperature.\n\nAnswer:",
+        "answer": [
+         "C"
+        ],
+        "category": "physics",
+        "topic": "Heat",
+        "ability": "Scientific Calculation",
+        "type": "multiple-choice",
+        "task_name": "SocraticQA",
+        "prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\". Please directly give the answer without any explanation.",
+        "cot_prompt": "Given a question and four options, please select the right answer. Your answer should be \"A\", \"B\", \"C\" or \"D\".",
+        "id": "7afdd99de6a363d42d9aa1e2329ad82c"
+       }
+]
