@@ -1,6 +1,8 @@
 # MoRA
 Code Repository for: [Improving Physics Reasoning in Large Language Models Using Mixture of Refinement Agents](https://arxiv.org/abs/2412.00821) [AAAI 2026 TrustAgent]
 
+PhysicsQA: [HuggingFace](https://huggingface.co/datasets/maximus-21/PhysicsQA)
+
 ## Requirements
 
 The code is written in Python 3.8. Before running, you need to first install the required packages by typing following commands (Using a virtual environment is recommended):
